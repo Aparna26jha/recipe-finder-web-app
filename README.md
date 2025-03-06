@@ -37,7 +37,7 @@ Culinary Explorer is a responsive web application that helps users discover reci
 
 ## 🚀 Live Demo
 
-Check out the live application: [Culinary Explorer](https://recipe-explorer-two.vercel.app/)
+Check out the live application: [Culinary Explorer](https://recipe-finder-web-app-ten.vercel.app/)
 
 ## 🔧 Setup and Installation
 
